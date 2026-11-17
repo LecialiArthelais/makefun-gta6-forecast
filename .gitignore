@@ -1,0 +1,7 @@
+kit/
+work/
+out/
+node_modules/
+transcripts*.tar.gz
+.env
+*.log
